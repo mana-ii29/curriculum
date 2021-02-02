@@ -40,7 +40,7 @@ public class Study {
         calendar.add(calendar.MONTH,2);
         calendar.add(calendar.DATE,15);
         System.out.println(calendar.get(Calendar.YEAR));
-        System.out.println(calendar.get(Calendar.MONTH));
+        System.out.println(calendar.get(Calendar.MONTH)+1);
         System.out.println(calendar.get(Calendar.DATE));
         
 
