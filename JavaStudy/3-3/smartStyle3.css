@@ -1,0 +1,64 @@
+@media screen and (max-width: 479px){
+
+	.wrapper {
+		width: 200px;
+		margin: 0 auto;
+	}
+
+	.header {
+		width: 200px;
+		height: 200px;
+	}
+
+	.header__box {
+		width: 60px;
+		height: 160px;
+		float: top;
+		margin: 20px 70px;
+	}
+
+	.header__box__box1 {
+		margin: 10px;
+		float: top;
+	}
+
+	.header__box__box2 {
+		margin: 0px 10px 10px 10px;
+		float: top;
+	}
+
+	.header__box__box3 {
+		margin: 0px 10px 10px 10px;
+		float: top;
+	}
+
+	.contents__left {
+		width: 200px;
+		height: 100px;
+		float: top;
+	}
+
+	.contents__right {
+		width: 200px;
+		height: 210px;
+		float: top;
+	}
+
+	.contents__right__box1 {
+		width: 130px;
+		margin: 20px 30px 10px 30px;
+	}
+
+	.contents__right__box2 {
+		width: 130px;
+		margin: 0px 30px 10px 30px;
+	}
+
+	.contents__right__box3 {
+		width: 130px;
+		margin: 0px 30px 20px 30px;
+	}
+
+	.footer {
+		width: 200px;
+	}
